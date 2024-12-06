@@ -5,6 +5,9 @@ This repository contains the backend, the frontend and the scientific paper in G
 <br>
 The project was created during our Master‘s programme at Hof University of Applied Sciences in the lecture „Data Mining and Machine Learning“.
 <br>
+
+https://github.com/user-attachments/assets/ee89c72d-646f-46cc-aaac-2cd368434293
+
 <br>
 
 ## Developers
