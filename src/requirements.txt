@@ -1,0 +1,8 @@
+#Used Python version: 3.11.7
+
+opencv-python==4.8.1.78
+numpy==1.26.1
+flask==3.0.0
+ultralytics==8.0.199
+Pillow==10.1.0
+dill==0.3.7

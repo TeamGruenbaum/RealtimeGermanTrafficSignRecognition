@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/change_detection_mode"
+        android:title="@string/change_detection_mode" />
+    <item android:id="@+id/change_address"
+        android:title="@string/change_address" />
+    <item android:id="@+id/developer_information"
+        android:title="@string/developer_information" />
+</menu>

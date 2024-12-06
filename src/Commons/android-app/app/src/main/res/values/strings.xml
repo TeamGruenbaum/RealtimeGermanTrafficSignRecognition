@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealtimeGermanTrafficSignRecognitionApp</string>
+    <string name="settings">Einstellungen</string>
+    <string name="read_out_detected_traffic_sign_names">Erkannte Verkehrsschildnamen vorlesen</string>
+    <string name="change_detection_mode">Objekterkennungsmodus ändern</string>
+    <string name="change_address">Adresse ändern</string>
+    <string name="developer_information">Entwicklerinformationen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="apply">Anwenden</string>
+</resources>
